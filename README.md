@@ -1,11 +1,11 @@
 # pages
 
-pitty / 関連アプリの公開ドキュメント (プライバシーポリシー等) を GitHub Pages でホスティングするためのリポジトリ。
+Pitty / 関連アプリの公開ドキュメント (プライバシーポリシー等) を GitHub Pages でホスティングするためのリポジトリ。
 
 ## URL
 
 - ランディング: <https://ryosuketamura0104.github.io/pages/>
-- pitty プライバシーポリシー: <https://ryosuketamura0104.github.io/pages/pitty/privacy-policy>
+- Pitty プライバシーポリシー: <https://ryosuketamura0104.github.io/pages/pitty/privacy-policy>
 
 ## ディレクトリ構成
 
